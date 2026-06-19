@@ -1,0 +1,3 @@
+A loader that allows you to load programs anywhere in the CoCo 3 memory without having to worry about special locations that BASIC uses.
+It also does many variations of compression based on the zx0 idea but instead of being limited to a max size of 64k this program will
+find matches to copy from using up to 2 Megs.
